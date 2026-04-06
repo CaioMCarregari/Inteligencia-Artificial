@@ -1,4 +1,4 @@
-# Inteligencia-Artificial
+# Ant-Clustering
 Ant Clustering Algorithm - Agrupamento Bioinspirado
 Este repositório contém a implementação de um algoritmo de Inteligência de Enxame (Swarm Intelligence) inspirado no comportamento de formigas reais, que organizam corpos em colônias para manter o ambiente limpo.
 
